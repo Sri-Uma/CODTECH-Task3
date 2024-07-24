@@ -18,4 +18,5 @@ Event listeners for the search and location buttons, as well as the Enter key fo
 Functions to fetch city coordinates and weather details using the OpenWeatherMap API.
 Functions to create and insert HTML elements dynamically for displaying weather data.
 Detailed Breakdown
+
 ![Screenshot 2024-07-24 201327](https://github.com/user-attachments/assets/3967b41d-e002-4182-9ef2-1052123d8200)
